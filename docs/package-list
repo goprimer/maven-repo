@@ -1,4 +1,5 @@
-com.bluelinelabs.conductor
 com.goprimer
 com.goprimer.callbacks
 com.goprimer.callbacks.attribution
+com.goprimer.internal.callbacks
+com.goprimer.internal.manager
