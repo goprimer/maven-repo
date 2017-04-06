@@ -19,7 +19,8 @@
       <version>3.2.4</version>
       <version>3.2.4.1</version>
       <version>3.2.5</version>
+      <version>3.2.6-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170406164745</lastUpdated>
+    <lastUpdated>20170406201306</lastUpdated>
   </versioning>
 </metadata>
