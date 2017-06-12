@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.goprimer</groupId>
+  <artifactId>primer</artifactId>
+  <version>3.4.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170612.195425</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170612195425</lastUpdated>
+  </versioning>
+</metadata>
