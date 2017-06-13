@@ -24,7 +24,8 @@
       <version>3.2.7-SNAPSHOT</version>
       <version>3.2.7</version>
       <version>3.4.0-SNAPSHOT</version>
+      <version>3.4.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170612195425</lastUpdated>
+    <lastUpdated>20170613193530</lastUpdated>
   </versioning>
 </metadata>
